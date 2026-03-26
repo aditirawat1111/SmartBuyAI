@@ -33,7 +33,7 @@ import java.util.stream.Collectors;
 @Service
 @RequiredArgsConstructor
 @Slf4j
-public class PriceSimulationPageProcessor {
+public class  PriceSimulationPageProcessor {
 
     private final ProductPlatformMappingRepository mappingRepository;
     private final PriceHistoryRepository priceHistoryRepository;

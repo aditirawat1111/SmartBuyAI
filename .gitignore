@@ -39,3 +39,8 @@ build/
 Thumbs.db
 ehthumbs.db
 Desktop.ini
+
+# Private Documentation
+docs/
+*.md
+!README.md
